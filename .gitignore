@@ -1,0 +1,13 @@
+.*
+!*.do
+!.*ignore
+!.gitattributes
+!.env.defaults
+!.editorconfig
+!.pre-commit-config.yaml
+*~
+__pycache__/
+*.egg-info/
+build/
+dist/
+pyrightconfig.json
